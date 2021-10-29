@@ -16,5 +16,5 @@ Insert all images inside the **img** folder
     python main.py
     ```
 
-View the results inside the proc_vid/processed_masks
+View the results inside the **proc_vid/processed_masks**
 
